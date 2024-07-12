@@ -3,7 +3,7 @@
 Welcome to my first Figma design project! This repository contains the design files for a project Shoes Detail UI Page created using Figma.
 
 ## Figma Design Link
-[My First Figma Design](https://www.figma.com/design/1Dl36IaZ9YKe5VIkDMUaXZ/My_First_design?t=vUMFAJV2DHuYJNDG-1)
+[Figma Design](https://www.figma.com/design/1Dl36IaZ9YKe5VIkDMUaXZ/My_First_design?t=vUMFAJV2DHuYJNDG-1)
 
 ## Description
 This Figma project represents my initial exploration into interface design using Figma. It includes various components and layouts aimed at learning and experimenting with UI/UX principles.
